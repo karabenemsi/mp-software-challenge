@@ -1,3 +1,5 @@
+import json
+
 class Wool:
 
     isAvailable = True
